@@ -1,0 +1,31 @@
+{
+  "name": "michel-montaigne",
+  "version": "1.2.0",
+  "description": "-- BOT Discord officiel du BDE MMI le HUB --",
+  "main": "main.js",
+  "dependencies": {
+    "discord.js": "^11.5.0",
+    "fs": "^0.0.1-security",
+    "google-images": "^2.1.0",
+    "lowdb": "^1.0.0",
+    "moment": "^2.24.0",
+    "movie-info": "^2.0.5",
+    "npm-module-search": "^3.0.0",
+    "weather-js": "^2.0.0",
+    "youtube-node": "^1.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeoxAzrot1/Michel-Montaigne---BOT.git"
+  },
+  "author": "NeoxAzrot",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NeoxAzrot1/Michel-Montaigne---BOT/issues"
+  },
+  "homepage": "https://github.com/NeoxAzrot1/Michel-Montaigne---BOT#readme"
+}

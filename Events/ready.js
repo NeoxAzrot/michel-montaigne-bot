@@ -4,7 +4,8 @@ module.exports = async(client) => {
 
     client.user.setPresence({
         game: {
-            name: "/help"
+            name: "/help",
+            type: 3
         }
     })
 };
