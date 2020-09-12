@@ -26,8 +26,11 @@ module.exports.run = async(client, message, args) => {
 
         while(n <= hexa_color.length){
             let test_char = hexa_color.slice(n-1, n);
+            console.log(test_hexa.find(x => x == test_char))
             if(!test_hexa.find(x => x == test_char)){
+              if(test_char != 0) { // Car il comprend pas le 0 à cause du test c'est null
                 hexa_is_ok = false;
+              }
             }
             n++;
         }
