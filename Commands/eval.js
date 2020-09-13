@@ -11,7 +11,7 @@ module.exports.run = async(client, message, args) => {
 
         try {
             var command_eval = eval(command_arg);
-            console.log(`Commande eval :\n\n${command_eval}`);
+            console.log(command_eval);
             return message.channel.send({
               embed: {
                   color: parseInt('0x' + ("000000" + Math.random().toString(16).slice(2, 8).toUpperCase()).slice(-6)),
