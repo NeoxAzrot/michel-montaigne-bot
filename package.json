@@ -1,6 +1,6 @@
 {
   "name": "michel-montaigne",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "-- BOT Discord officiel du BDE MMI le HUB --",
   "main": "main.js",
   "dependencies": {
