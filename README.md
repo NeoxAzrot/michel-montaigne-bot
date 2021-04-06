@@ -1,3 +1,3 @@
-# Michel-Montaigne---BOT
+# Michel-Montaigne-BOT
 
--- BOT Discord officiel du BDE MMI le HUB --
+BOT Discord officiel du BDE MMI le HUB
