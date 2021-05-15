@@ -1,3 +1,7 @@
-# Michel-Montaigne-BOT
+# Michel Montaigne - Discord Bot
 
-BOT Discord officiel du BDE MMI le HUB
+Official Bot Discord of the MMI Bordeaux server.
+
+## Participate to the development of the BOT
+
+This BOT is **open source**, so don't hesitate to propose **pull requests** that I will gladly accept !
